@@ -1,0 +1,51 @@
+transaction_id,date,product_id,product_name,category,region,quantity,unit_price,total_amount,customer_id
+T001,2025-01-05,P001,Laptop Pro 15",Electronics,Madrid,1,1200,1200,C001
+T002,2025-01-05,P002,Wireless Mouse,Accessories,Barcelona,3,25,75,C002
+T003,2025-01-06,P003,USB-C Cable,Accessories,Madrid,5,12,60,C001
+T004,2025-01-06,P001,Laptop Pro 15",Electronics,Valencia,2,1200,2400,C003
+T005,2025-01-07,P004,Mechanical Keyboard,Accessories,Barcelona,2,89,178,C004
+T006,2025-01-07,P005,Monitor 27",Electronics,Madrid,1,350,350,C005
+T007,2025-01-08,P002,Wireless Mouse,Accessories,Valencia,4,25,100,C006
+T008,2025-01-08,P006,Webcam HD,Electronics,Barcelona,2,65,130,C007
+T009,2025-01-09,P001,Laptop Pro 15",Electronics,Madrid,1,1200,1200,C008
+T010,2025-01-09,P007,Headphones Wireless,Electronics,Valencia,3,120,360,C009
+T011,2025-01-10,P003,USB-C Cable,Accessories,Barcelona,10,12,120,C010
+T012,2025-01-10,P004,Mechanical Keyboard,Accessories,Madrid,1,89,89,C011
+T013,2025-01-11,P005,Monitor 27",Electronics,Valencia,2,350,700,C012
+T014,2025-01-11,P008,Desk Lamp LED,Home,Madrid,4,35,140,C013
+T015,2025-01-12,P001,Laptop Pro 15",Electronics,Barcelona,1,1200,1200,C014
+T016,2025-01-12,P002,Wireless Mouse,Accessories,Madrid,2,25,50,C015
+T017,2025-01-13,P009,Office Chair,Home,Valencia,1,250,250,C016
+T018,2025-01-13,P006,Webcam HD,Electronics,Barcelona,1,65,65,C017
+T019,2025-01-14,P010,Standing Desk,Home,Madrid,1,450,450,C018
+T020,2025-01-14,P004,Mechanical Keyboard,Accessories,Valencia,3,89,267,C019
+T021,2025-01-15,P001,Laptop Pro 15",Electronics,Barcelona,2,1200,2400,C020
+T022,2025-01-15,P007,Headphones Wireless,Electronics,Madrid,2,120,240,C021
+T023,2025-01-16,P005,Monitor 27",Electronics,Valencia,1,350,350,C022
+T024,2025-01-16,P003,USB-C Cable,Accessories,Barcelona,8,12,96,C023
+T025,2025-01-17,P011,Tablet 10",Electronics,Madrid,1,450,450,C024
+T026,2025-01-17,P002,Wireless Mouse,Accessories,Valencia,5,25,125,C025
+T027,2025-01-18,P001,Laptop Pro 15",Electronics,Barcelona,1,1200,1200,C026
+T028,2025-01-18,P008,Desk Lamp LED,Home,Madrid,2,35,70,C027
+T029,2025-01-19,P012,Power Bank,Accessories,Valencia,6,40,240,C028
+T030,2025-01-19,P004,Mechanical Keyboard,Accessories,Barcelona,1,89,89,C029
+T031,2025-01-20,P001,Laptop Pro 15",Electronics,Madrid,1,1200,1200,C030
+T032,2025-01-20,P013,Smartphone Stand,Accessories,Valencia,4,20,80,C031
+T033,2025-01-21,P005,Monitor 27",Electronics,Barcelona,2,350,700,C032
+T034,2025-01-21,P007,Headphones Wireless,Electronics,Madrid,1,120,120,C033
+T035,2025-01-22,P014,External SSD 1TB,Electronics,Valencia,3,110,330,C034
+T036,2025-01-22,P002,Wireless Mouse,Accessories,Barcelona,3,25,75,C035
+T037,2025-01-23,P001,Laptop Pro 15",Electronics,Madrid,2,1200,2400,C036
+T038,2025-01-23,P015,Laptop Bag,Accessories,Valencia,2,45,90,C037
+T039,2025-01-24,P003,USB-C Cable,Accessories,Barcelona,12,12,144,C038
+T040,2025-01-24,P005,Monitor 27",Electronics,Madrid,1,350,350,C039
+T041,2025-01-25,P001,Laptop Pro 15",Electronics,Valencia,1,1200,1200,C040
+T042,2025-01-25,P016,Docking Station,Accessories,Barcelona,1,150,150,C041
+T043,2025-01-26,P007,Headphones Wireless,Electronics,Madrid,2,120,240,C042
+T044,2025-01-26,P002,Wireless Mouse,Accessories,Valencia,4,25,100,C043
+T045,2025-01-27,P001,Laptop Pro 15",Electronics,Barcelona,1,1200,1200,C044
+T046,2025-01-27,P017,Graphics Tablet,Electronics,Madrid,1,200,200,C045
+T047,2025-01-28,P005,Monitor 27",Electronics,Valencia,2,350,700,C046
+T048,2025-01-28,P003,USB-C Cable,Accessories,Barcelona,6,12,72,C047
+T049,2025-01-29,P001,Laptop Pro 15",Electronics,Madrid,2,1200,2400,C048
+T050,2025-01-29,P018,HDMI Cable 2m,Accessories,Valencia,8,15,120,C049
